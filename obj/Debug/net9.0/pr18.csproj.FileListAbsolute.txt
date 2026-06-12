@@ -1,0 +1,14 @@
+C:\Users\fanni\source\repos\pr18\pr18\bin\Debug\net9.0\pr18.exe
+C:\Users\fanni\source\repos\pr18\pr18\bin\Debug\net9.0\pr18.deps.json
+C:\Users\fanni\source\repos\pr18\pr18\bin\Debug\net9.0\pr18.runtimeconfig.json
+C:\Users\fanni\source\repos\pr18\pr18\bin\Debug\net9.0\pr18.dll
+C:\Users\fanni\source\repos\pr18\pr18\bin\Debug\net9.0\pr18.pdb
+C:\Users\fanni\source\repos\pr18\pr18\obj\Debug\net9.0\pr18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanni\source\repos\pr18\pr18\obj\Debug\net9.0\pr18.AssemblyInfoInputs.cache
+C:\Users\fanni\source\repos\pr18\pr18\obj\Debug\net9.0\pr18.AssemblyInfo.cs
+C:\Users\fanni\source\repos\pr18\pr18\obj\Debug\net9.0\pr18.csproj.CoreCompileInputs.cache
+C:\Users\fanni\source\repos\pr18\pr18\obj\Debug\net9.0\pr18.dll
+C:\Users\fanni\source\repos\pr18\pr18\obj\Debug\net9.0\refint\pr18.dll
+C:\Users\fanni\source\repos\pr18\pr18\obj\Debug\net9.0\pr18.pdb
+C:\Users\fanni\source\repos\pr18\pr18\obj\Debug\net9.0\pr18.genruntimeconfig.cache
+C:\Users\fanni\source\repos\pr18\pr18\obj\Debug\net9.0\ref\pr18.dll
